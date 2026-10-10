@@ -1,0 +1,24 @@
+# Large datasets
+*.json
+*.csv
+*.zip
+*.tar.gz
+
+# Pickled data files
+*.pkl
+
+# Image and raw data folders
+16k_images/
+images/
+dedupe/
+pickels/
+
+# Jupyter & Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+venv/
+env/
